@@ -1,2 +1,4 @@
-# IVM_ObjectDetection
-Test
+# Single-shot Multibox Detector
+Este repositório contém o código completo para a arquitetura SSD, que é baseada em uma rede neural convolucional e utilizada para detecção de objetos. Além disso, possui um notebook Jupyter que auxilia em todos os passos para utilização da rede, desde a subamostragem do arquivo de pesos, passando pelo treinamento, até a visualização dos resultados. Para o caso específico deste repositório, a rede neural teve o objetivo de detectar leucócitos em imagens de vídeo de Microscopia Intravital, mas seu treinamento original foi embasado pelo conjunto de dados [MS COCO](http://cocodataset.org/#home).
+Este material foi amplamente baseado nos repositórios de [Bruno Gregório](https://brunoggregorio.github.io/) e de [Pierluigi Ferrari](https://github.com/pierluigiferrari/ssd_keras).
+
